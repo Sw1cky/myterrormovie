@@ -1,0 +1,19 @@
+html{
+    background: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: center;
+    margin: auto gray;
+    color: white;
+    text-align: center;
+    max-width: 1280px;
+
+
+}
+
+.terror {
+    background: #210000;
+    text-align: center;
+}
+    
+
+
